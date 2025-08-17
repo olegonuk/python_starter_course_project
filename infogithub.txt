@@ -1,0 +1,2 @@
+HTTPS: https://github.com/olegonuk/python_starter_course_project.git
+SSH: git@github.com:olegonuk/python_starter_course_project.git
